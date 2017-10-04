@@ -3,7 +3,8 @@ import csv
 import filecmp
 from operator import itemgetter
 #Adam Benson
-
+#Github account : adambens
+#Github link: https://github.com/adambens/Project1
 
 def getData(file):
 #Input: file name
